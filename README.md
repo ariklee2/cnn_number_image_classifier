@@ -122,6 +122,7 @@ Predicted Digit: X
 
 ## Project Structure
 
+```bash
 mnist-classifier/
 │
 ├── data/                  # MNIST dataset (auto-downloaded)
@@ -129,6 +130,7 @@ mnist-classifier/
 ├── img_3.jpg              # Optional custom test image
 ├── main.py                # Training and inference script
 └── README.md
+```
 
 ---
 
